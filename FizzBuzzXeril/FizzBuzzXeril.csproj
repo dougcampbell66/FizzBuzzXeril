@@ -90,6 +90,7 @@
     <Content Include="images\features\img-1.jpg" />
     <Content Include="images\features\img-2.jpg" />
     <Content Include="images\features\map.png" />
+    <Content Include="images\fizzbuzzback.png" />
     <Content Include="images\logo-dark.png" />
     <Content Include="images\logo-light.png" />
     <Content Include="images\portfolio\img-1.jpg" />
