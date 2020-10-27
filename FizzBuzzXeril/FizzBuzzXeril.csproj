@@ -76,6 +76,7 @@
     <Content Include="css\owl.transitions.css" />
     <Content Include="css\style.css" />
     <Content Include="css\style.min.css" />
+    <Content Include="FizzBuzz.js" />
     <Content Include="fonts\materialdesignicons-webfont.svg" />
     <Content Include="images\bg-1.jpg" />
     <Content Include="images\bg-2.jpg" />
@@ -107,6 +108,7 @@
     <Content Include="index-3.html" />
     <Content Include="index.html" />
     <Content Include="code.html" />
+    <Content Include="Practice.html" />
     <Content Include="solve.html" />
     <Content Include="index8.html" />
     <Content Include="js\app.js" />
